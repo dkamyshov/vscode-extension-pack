@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Extension Packs"
+  ],
+  "description": "dkamyshov's vscode extension pack",
+  "displayName": "dkamyshov's vscode extension pack",
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "extensionPack": [
+    "msjsdiag.debugger-for-chrome",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens-insiders",
+    "xyz.local-history",
+    "zhuangtongfa.material-theme",
+    "esbenp.prettier-vscode",
+    "richie5um2.vscode-sort-json",
+    "matklad.rust-analyzer",
+    "stylelint.vscode-stylelint",
+    "svelte.svelte-vscode",
+    "jock.svg",
+    "jpoissonnier.vscode-styled-components",
+    "arcanis.vscode-zipfs",
+    "bungcip.better-toml",
+    "marus25.cortex-debug",
+    "firefox-devtools.vscode-firefox-debug",
+    "golang.go",
+    "ldez.ignore-files",
+    "tlent.jest-snapshot-language-support",
+    "kelvin.vscode-sshfs"
+  ],
+  "name": "vscode-extension-pack",
+  "publisher": "dkamyshov",
+  "version": "0.0.1"
+}
