@@ -29,7 +29,12 @@
     "tlent.jest-snapshot-language-support",
     "kelvin.vscode-sshfs"
   ],
+  "icon": "icon.png",
   "name": "vscode-extension-pack",
   "publisher": "dkamyshov",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dkamyshov/vscode-extension-pack.git"
+  },
   "version": "0.0.1"
 }
