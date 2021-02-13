@@ -1,8 +1,12 @@
 {
+  "author": "dkamyshov <danil.kamyshov@gmail.com>",
   "categories": [
     "Extension Packs"
   ],
   "description": "dkamyshov's vscode extension pack",
+  "devDependencies": {
+    "vsce": "^1.85.0"
+  },
   "displayName": "dkamyshov's vscode extension pack",
   "engines": {
     "vscode": "^1.53.0"
@@ -40,11 +44,15 @@
     "zhuangtongfa.material-theme"
   ],
   "icon": "icon.png",
+  "license": "MIT",
   "name": "vscode-extension-pack",
   "publisher": "dkamyshov",
   "repository": {
     "type": "git",
     "url": "https://github.com/dkamyshov/vscode-extension-pack.git"
+  },
+  "scripts": {
+    "deploy": "vsce publish"
   },
   "version": "0.0.3"
 }
