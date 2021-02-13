@@ -24,6 +24,7 @@
     "ldez.ignore-files",
     "marus25.cortex-debug",
     "matklad.rust-analyzer",
+    "ms-python.python",
     "ms-vscode.cpptools",
     "msjsdiag.debugger-for-chrome",
     "purocean.drawio-preview",
@@ -45,5 +46,5 @@
     "type": "git",
     "url": "https://github.com/dkamyshov/vscode-extension-pack.git"
   },
-  "version": "0.0.2"
+  "version": "0.0.3"
 }
