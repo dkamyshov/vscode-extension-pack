@@ -29,6 +29,7 @@
     "marus25.cortex-debug",
     "matklad.rust-analyzer",
     "ms-python.python",
+    "ms-python.vscode-pylance",
     "ms-vscode.cpptools",
     "msjsdiag.debugger-for-chrome",
     "purocean.drawio-preview",
@@ -54,5 +55,5 @@
   "scripts": {
     "deploy": "vsce publish"
   },
-  "version": "0.0.3"
+  "version": "0.0.4"
 }
