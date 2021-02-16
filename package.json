@@ -22,6 +22,7 @@
     "firefox-devtools.vscode-firefox-debug",
     "golang.go",
     "graphql.vscode-graphql",
+    "irongeek.vscode-env",
     "jock.svg",
     "jpoissonnier.vscode-styled-components",
     "kelvin.vscode-sshfs",
@@ -55,5 +56,5 @@
   "scripts": {
     "deploy": "vsce publish"
   },
-  "version": "0.0.4"
+  "version": "0.0.5"
 }
