@@ -39,6 +39,7 @@
     "stylelint.vscode-stylelint",
     "svelte.svelte-vscode",
     "tlent.jest-snapshot-language-support",
+    "twxs.cmake",
     "vadimcn.vscode-lldb",
     "visualstudioexptteam.vscodeintellicode",
     "vscjava.vscode-java-pack",
@@ -56,5 +57,5 @@
   "scripts": {
     "deploy": "vsce publish"
   },
-  "version": "0.0.5"
+  "version": "0.0.6"
 }
