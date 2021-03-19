@@ -17,7 +17,7 @@
     "bungcip.better-toml",
     "dbaeumer.vscode-eslint",
     "dkamyshov.monochrome",
-    "eamodio.gitlens-insiders",
+    "eamodio.gitlens",
     "esbenp.prettier-vscode",
     "firefox-devtools.vscode-firefox-debug",
     "golang.go",
@@ -57,5 +57,5 @@
   "scripts": {
     "deploy": "vsce publish"
   },
-  "version": "0.0.6"
+  "version": "0.0.7"
 }
