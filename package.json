@@ -12,12 +12,14 @@
     "vscode": "^1.53.0"
   },
   "extensionPack": [
+    "aaron-bond.better-comments",
     "adpyke.codesnap",
     "akamud.vscode-theme-onelight",
     "arcanis.vscode-zipfs",
     "bungcip.better-toml",
     "dbaeumer.vscode-eslint",
     "dkamyshov.monochrome",
+    "dtsvet.vscode-wasm",
     "eamodio.gitlens",
     "esbenp.prettier-vscode",
     "firefox-devtools.vscode-firefox-debug",
@@ -58,5 +60,5 @@
   "scripts": {
     "deploy": "vsce publish"
   },
-  "version": "0.0.8"
+  "version": "0.0.9"
 }
