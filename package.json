@@ -16,6 +16,7 @@
     "adpyke.codesnap",
     "akamud.vscode-theme-onelight",
     "arcanis.vscode-zipfs",
+    "arjun.swagger-viewer",
     "bungcip.better-toml",
     "dbaeumer.vscode-eslint",
     "dkamyshov.monochrome",
@@ -35,6 +36,7 @@
     "ms-python.python",
     "ms-python.vscode-pylance",
     "ms-vscode.cpptools",
+    "ms-vscode.hexeditor",
     "msjsdiag.debugger-for-chrome",
     "purocean.drawio-preview",
     "richie5um2.vscode-sort-json",
@@ -60,5 +62,5 @@
   "scripts": {
     "deploy": "vsce publish"
   },
-  "version": "0.0.9"
+  "version": "0.0.10"
 }
