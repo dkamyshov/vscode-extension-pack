@@ -36,6 +36,8 @@
     "matklad.rust-analyzer",
     "ms-python.python",
     "ms-python.vscode-pylance",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode-remote.remote-ssh",
     "ms-vscode.cpptools",
     "ms-vscode.hexeditor",
     "msjsdiag.debugger-for-chrome",
@@ -51,8 +53,6 @@
     "vadimcn.vscode-lldb",
     "visualstudioexptteam.vscodeintellicode",
     "vscjava.vscode-java-pack",
-    "weredev.copyrawvalue",
-    "xyz.local-history",
     "zhuangtongfa.material-theme"
   ],
   "icon": "icon.png",
@@ -66,5 +66,5 @@
   "scripts": {
     "deploy": "vsce publish"
   },
-  "version": "0.0.11"
+  "version": "0.1.0"
 }
