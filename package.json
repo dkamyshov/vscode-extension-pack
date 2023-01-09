@@ -34,6 +34,7 @@
     "ldez.ignore-files",
     "marus25.cortex-debug",
     "matklad.rust-analyzer",
+    "ms-python.isort",
     "ms-python.python",
     "ms-python.vscode-pylance",
     "ms-vscode-remote.remote-ssh-edit",
