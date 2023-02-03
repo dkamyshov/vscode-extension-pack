@@ -28,6 +28,7 @@
     "golang.go",
     "graphql.vscode-graphql",
     "irongeek.vscode-env",
+    "jebbs.plantuml",
     "jock.svg",
     "jpoissonnier.vscode-styled-components",
     "kelvin.vscode-sshfs",
@@ -41,7 +42,6 @@
     "ms-vscode-remote.remote-ssh",
     "ms-vscode.cpptools",
     "ms-vscode.hexeditor",
-    "msjsdiag.debugger-for-chrome",
     "purocean.drawio-preview",
     "redhat.vscode-yaml",
     "richie5um2.vscode-sort-json",
@@ -67,5 +67,5 @@
   "scripts": {
     "deploy": "vsce publish"
   },
-  "version": "0.1.0"
+  "version": "0.2.0"
 }
