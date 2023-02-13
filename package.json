@@ -34,7 +34,6 @@
     "kelvin.vscode-sshfs",
     "ldez.ignore-files",
     "marus25.cortex-debug",
-    "matklad.rust-analyzer",
     "ms-python.isort",
     "ms-python.python",
     "ms-python.vscode-pylance",
@@ -45,6 +44,7 @@
     "purocean.drawio-preview",
     "redhat.vscode-yaml",
     "richie5um2.vscode-sort-json",
+    "rust-lang.rust-analyzer",
     "serayuzgur.crates",
     "stylelint.vscode-stylelint",
     "svelte.svelte-vscode",
@@ -67,5 +67,5 @@
   "scripts": {
     "deploy": "vsce publish"
   },
-  "version": "0.2.0"
+  "version": "0.3.0"
 }
