@@ -51,6 +51,7 @@
     "tlent.jest-snapshot-language-support",
     "tomoki1207.pdf",
     "twxs.cmake",
+    "usernamehw.errorlens",
     "vadimcn.vscode-lldb",
     "visualstudioexptteam.vscodeintellicode",
     "vscjava.vscode-java-pack",
@@ -67,5 +68,5 @@
   "scripts": {
     "deploy": "vsce publish"
   },
-  "version": "0.3.0"
+  "version": "0.4.0"
 }
